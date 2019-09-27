@@ -32,7 +32,7 @@ public class RandomGuess3 {
 
 
         }
-    System.out.println("It took you " + counter + " times");
+    System.out.println("It took you " + counter + " tries");
 
     }
 }
